@@ -8,3 +8,4 @@ Comandos:
 (flutter channel [dev ou master ou bet ou stable]): Comando para mudar de branch. 
 (no-enable-windows-desktop) : Comando para desativar desenvolvimento para windows.
 (enable-windows-desktop) : Comando para ativar desenvolvimento windows.
+(flutter config -h) : Comando flutter para listar os comandos de configurações.
