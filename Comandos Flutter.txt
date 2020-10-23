@@ -1,7 +1,7 @@
-###############################################                                             #
+###############################################
 #       Luiz Carlos - git Lukaneto            #
 ###############################################
 
 Comandos:
 
-(flutter channel) : Comando para alternar a branch de desenvolvimento do flutter.
+(flutter channel) : Comando para mostrar qual branch está havendo o import do projeto.
