@@ -5,3 +5,6 @@
 Comandos:
 
 (flutter channel) : Comando para mostrar qual branch está havendo o import do projeto.
+(flutter channel [dev ou master ou bet ou stable]): Comando para mudar de branch. 
+(no-enable-windows-desktop) : Comando para desativar desenvolvimento para windows.
+(enable-windows-desktop) : Comando para ativar desenvolvimento windows.
